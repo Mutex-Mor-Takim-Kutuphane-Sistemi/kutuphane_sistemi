@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Purple_Kutphane_Sistemi", "Purple_Kutphane_Sistemi\Purple_Kutphane_Sistemi.csproj", "{213CAA10-381D-46FE-8A60-F796146B1ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213CAA10-381D-46FE-8A60-F796146B1ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213CAA10-381D-46FE-8A60-F796146B1ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213CAA10-381D-46FE-8A60-F796146B1ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213CAA10-381D-46FE-8A60-F796146B1ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {717B522D-2D56-4D54-A520-E6258D7BF963}
+	EndGlobalSection
+EndGlobal
