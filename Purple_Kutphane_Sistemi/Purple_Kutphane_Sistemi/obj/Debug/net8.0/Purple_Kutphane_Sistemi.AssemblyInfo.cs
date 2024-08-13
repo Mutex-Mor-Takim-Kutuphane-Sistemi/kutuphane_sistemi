@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Purple_Kutphane_Sistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcc6c258d4403bc05bf3056c7d1f200f3bdc56e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Purple_Kutphane_Sistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Purple_Kutphane_Sistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
