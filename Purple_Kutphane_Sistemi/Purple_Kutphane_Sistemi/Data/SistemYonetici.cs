@@ -1,4 +1,6 @@
-﻿namespace Purple_Kutphane_Sistemi.Data
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Purple_Kutphane_Sistemi.Data
 {
     public class SistemYonetici : Kullanici
     {

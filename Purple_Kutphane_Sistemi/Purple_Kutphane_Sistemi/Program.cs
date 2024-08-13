@@ -1,15 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Purple_Kutphane_Sistemi.Data;
 
-string connectionString = "Host=localhost;Port=5432;Database=kutuphane;Username=postgres;Password=ez1234gi";
-
-TriggerManager triggerManager = new TriggerManager(connectionString);
-
-// Trigger'larý oluþturmak için
-triggerManager.CreateSetSonOnaylanmaTarihiTrigger();
-triggerManager.CreateKitapAlmaTalebiTrigger();
-triggerManager.CreateKitapAlimlariTrigger();
-
 
 var builder = WebApplication.CreateBuilder(args);
 

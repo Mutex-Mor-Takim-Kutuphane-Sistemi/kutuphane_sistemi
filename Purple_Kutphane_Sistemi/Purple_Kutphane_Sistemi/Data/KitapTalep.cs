@@ -1,9 +1,11 @@
-﻿using System.Security.Cryptography.Xml;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Security.Cryptography.Xml;
 
 namespace Purple_Kutphane_Sistemi.Data
 {
     public class KitapTalep
     {
+        [Key]
         public int talep_id { get; set; }
         public int uye_id { get; set; }
         public int gorevli_id { get; set; }

@@ -1,7 +1,10 @@
-﻿namespace Purple_Kutphane_Sistemi.Data
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Purple_Kutphane_Sistemi.Data
 {
     public class Yazar
     {
+        [Key]
         public int yazar_id { get; set; }
         public string Ad { get; set; }
         public string Soyad { get; set; }

@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\kitapalim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\kitapalim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\yazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\yazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\kitapalim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\kitapalim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\triggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\triggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\sistemyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\sistemyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\kitaptalep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +51,20 @@
       "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\hesaptalep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\sistemyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\sistemyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\gorevli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\gorevli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\purple_kutphane_sistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\asus\\desktop\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,11 +74,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240813160135_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs",
+              "RelativeToolTip": "Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:01:35.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TriggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\TriggerManager.cs",
+              "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\TriggerManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\TriggerManager.cs",
+              "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\TriggerManager.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwF8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:14:54.043Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,163 +114,163 @@
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\SistemYonetici.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\SistemYonetici.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\SistemYonetici.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T12:46:06.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "KitapTalep.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\KitapTalep.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\KitapTalep.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\KitapTalep.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\KitapTalep.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T12:45:43.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "KitapAlim.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\KitapAlim.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\KitapAlim.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\KitapAlim.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\KitapAlim.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T12:45:30.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "HesapTalep.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\HesapTalep.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\HesapTalep.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\HesapTalep.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\HesapTalep.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T12:45:17.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Kitap.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Kitap.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\Kitap.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Kitap.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\Kitap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T15:48:48.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Yazar.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Yazar.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\Yazar.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Yazar.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\Yazar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T15:46:59.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Yonetici.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Yonetici.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\Yonetici.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Yonetici.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\Yonetici.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T15:45:49.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Gorevli.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Gorevli.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\Gorevli.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Gorevli.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\Gorevli.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T15:43:31.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Kullanici.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Kullanici.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\Kullanici.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Kullanici.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\Kullanici.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T15:33:13.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Uye.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Uye.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\Uye.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Uye.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\Uye.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T15:26:51.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Program.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Program.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABXAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T15:09:10.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "DbBaglanti.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\DbBaglanti.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\DbBaglanti.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\DbBaglanti.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\DbBaglanti.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T15:07:36.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\appsettings.json",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\appsettings.json",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\appsettings.json",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-09T15:06:16.763Z",
               "EditorCaption": ""
@@ -251,7 +285,8 @@
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-09T15:04:29.676Z"
+              "WhenOpened": "2024-08-09T15:04:29.676Z",
+              "EditorCaption": ""
             }
           ]
         }
