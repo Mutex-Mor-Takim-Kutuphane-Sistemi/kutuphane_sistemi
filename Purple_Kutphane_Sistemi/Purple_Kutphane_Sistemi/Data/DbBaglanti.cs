@@ -20,5 +20,29 @@ namespace Purple_Kutphane_Sistemi.Data
         public DbSet<KitapTalep> KitapTalepleri { get; set; }
         public DbSet<Kullanici> Kullanicilar { get; set; }
         public DbSet<SistemYonetici> SistemYoneticileri { get; set; }
+
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Kullanici>()
+                .HasOne(k => k.Uye)
+                .WithOne(u => u.Kullanici)
+                .HasForeignKey<Uye>(u => u.Kullanici_id);
+
+            modelBuilder.Entity<Kullanici>()
+                .HasOne(k => k.Gorevli)
+                .WithOne(g => g.Kullanici)
+                .HasForeignKey<Gorevli>(g => g.Kullanici_id);
+
+            modelBuilder.Entity<Kullanici>()
+                .HasOne(k => k.Yonetici)
+                .WithOne(y => y.Kullanici)
+                .HasForeignKey<Yonetici>(y => y.Kullanici_id);
+
+            modelBuilder.Entity<Kullanici>()
+                .HasOne(k => k.SistemYoneticisi)
+                .WithOne(sy => sy.Kullanici)
+                .HasForeignKey<SistemYonetici>(sy => sy.Kullanici_id);
+        }
     }
 }
