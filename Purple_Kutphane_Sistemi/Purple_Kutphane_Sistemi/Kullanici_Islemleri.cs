@@ -5,11 +5,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Purple_Kutphane_Sistemi
 {
-    public class Kullanici_İslemleri
+    public class Kullanici_Islemleri
     {
         private readonly DbBaglanti _context;
 
-        public Kullanici_İslemleri(DbBaglanti context)
+        public Kullanici_Islemleri(DbBaglanti context)
         {
             _context = context;
         }

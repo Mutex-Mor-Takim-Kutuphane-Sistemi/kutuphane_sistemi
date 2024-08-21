@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\kullanici_\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\kullanici_\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\yazar_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\yazar_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\kullanici_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\kullanici_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\yazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\yazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\purple_kutphane_sistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\kitapalim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\kitapalim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\hesaptalep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\hesaptalep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\migrations\\20240813160135_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\migrations\\20240813160135_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\sistemyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\sistemyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\kitapalim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\kitapalim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\migrations\\20240813160135_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\migrations\\20240813160135_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\yazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\yazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,20 +55,12 @@
       "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\triggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\sistemyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\sistemyonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\kitaptalep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\kitaptalep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|solutionrelative:purple_kutphane_sistemi\\data\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213CAA10-381D-46FE-8A60-F796146B1ECE}|Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj|c:\\users\\agah\\documents\\github\\kutuphane\\kutuphane_sistemi\\purple_kutphane_sistemi\\purple_kutphane_sistemi\\data\\gorevli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,32 +91,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Kullanici_\u0130slemleri.cs",
-              "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Kullanici_\u0130slemleri.cs",
-              "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Kullanici_\u0130slemleri.cs",
-              "ToolTip": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Kullanici_\u0130slemleri.cs",
-              "RelativeToolTip": "Purple_Kutphane_Sistemi\\Kullanici_\u0130slemleri.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Title": "Yazar_Islemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Yazar_Islemleri.cs",
+              "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Yazar_Islemleri.cs",
+              "ToolTip": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Yazar_Islemleri.cs",
+              "RelativeToolTip": "Purple_Kutphane_Sistemi\\Yazar_Islemleri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:09:18.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kullanici_Islemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Kullanici_Islemleri.cs",
+              "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Kullanici_Islemleri.cs",
+              "ToolTip": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Kullanici_Islemleri.cs",
+              "RelativeToolTip": "Purple_Kutphane_Sistemi\\Kullanici_Islemleri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T17:28:33.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240813160135_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs",
-              "RelativeToolTip": "Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T16:01:35.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "SistemYonetici.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\SistemYonetici.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\SistemYonetici.cs",
@@ -120,11 +124,12 @@
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\SistemYonetici.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T12:46:06.846Z"
+              "WhenOpened": "2024-08-12T12:46:06.846Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "KitapTalep.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\KitapTalep.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\KitapTalep.cs",
@@ -136,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "KitapAlim.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\KitapAlim.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\KitapAlim.cs",
@@ -144,11 +149,12 @@
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\KitapAlim.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T12:45:30.36Z"
+              "WhenOpened": "2024-08-12T12:45:30.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "HesapTalep.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\HesapTalep.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\HesapTalep.cs",
@@ -156,23 +162,25 @@
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\HesapTalep.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T12:45:17.877Z"
+              "WhenOpened": "2024-08-12T12:45:17.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "Kitap.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Kitap.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\Kitap.cs",
               "ToolTip": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Kitap.cs",
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\Kitap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T15:48:48.431Z"
+              "WhenOpened": "2024-08-09T15:48:48.431Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Yazar.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Yazar.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\Yazar.cs",
@@ -180,11 +188,12 @@
               "RelativeToolTip": "Purple_Kutphane_Sistemi\\Data\\Yazar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T15:46:59.909Z"
+              "WhenOpened": "2024-08-09T15:46:59.909Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Purple_Kutphane_Sistemi.csproj",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj",
@@ -197,7 +206,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "20240813160135_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs",
+              "RelativeToolTip": "Purple_Kutphane_Sistemi\\Migrations\\20240813160135_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:01:35.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "TriggerManager.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\TriggerManager.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\TriggerManager.cs",
@@ -209,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Yonetici.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Yonetici.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\Yonetici.cs",
@@ -221,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Gorevli.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Gorevli.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\Gorevli.cs",
@@ -233,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Kullanici.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Kullanici.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\Kullanici.cs",
@@ -245,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Uye.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\Uye.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\Uye.cs",
@@ -257,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Program.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Program.cs",
@@ -269,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "DbBaglanti.cs",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Data\\DbBaglanti.cs",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\Data\\DbBaglanti.cs",
@@ -281,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\appsettings.json",
               "RelativeDocumentMoniker": "Purple_Kutphane_Sistemi\\appsettings.json",
