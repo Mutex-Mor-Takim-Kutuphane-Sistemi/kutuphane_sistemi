@@ -45,7 +45,7 @@ class kitap
     public void kitapGuncelle(string yeniKitapID, string yeniKitapAdi, string yeniKitapYazar, string yeniKitaptarih, string yeniKitapYayinevi, bool yeniKitapDurum)
     {
         NpgsqlConnection baglanti = new NpgsqlConnection(baglantiYolu);
-        string query = "UPDATE Kitaplar SET yeniKitapID = @kitapID,yeniKitapAdi=@kitapAdi,yeniKitapYazar= @Yazar,yeniKitapTarih= @basimYili,yeniKitapYayınevi=@yayinevi,yeniKitapDurum=@oduncAlindiMi";
+        string query = "UPDATE kitap SET yeniKitapID = @kitapID,yeniKitapAdi=@kitapAdi,yeniKitapYazar= @Yazar,yeniKitapTarih= @basimYili,yeniKitapYayınevi=@yayinevi,yeniKitapDurum=@oduncAlindiMi";
         NpgsqlCommand komut = new NpgsqlCommand(query, baglanti);
 
         komut.Parameters.AddWithValue("@kitapID", yeniKitapID);
@@ -67,7 +67,7 @@ class kitap
     public void kitapSil()
     {
         NpgsqlConnection baglanti = new NpgsqlConnection(baglantiYolu);
-        string query = "DELETE FROM Kitaplar WHERE KitapID = @kitapID";
+        string query = "DELETE FROM kitap WHERE KitapID = @kitapID";
         NpgsqlCommand komut = new NpgsqlCommand(query, baglanti);
         komut.Parameters.AddWithValue("@KitapID", kitapID);
         baglanti.Open();
