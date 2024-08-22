@@ -11,5 +11,10 @@ namespace Purple_Kutphane_Sistemi.Data
         public string basimYili { get; set; }
         public string YayınEvi { get; set; }
         public bool Durum { get; set; }
+
+        public ICollection<KitapAlim> KitapAlimlari { get; set; }
+        public ICollection<KitapTalep> KitapTalepleri { get; set; }
+
+
     }
 }

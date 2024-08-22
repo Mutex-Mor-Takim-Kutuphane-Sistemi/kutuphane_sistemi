@@ -12,5 +12,15 @@ namespace Purple_Kutphane_Sistemi.Data
         public string Parola { get; set; }
         public string Rol { get; set; }
         public DateTime KayıtTarihi { get; set; }
+
+
+        public ICollection<Uye> Uyeler { get; set; }
+        public ICollection<Gorevli> Gorevliler { get; set; }
+        public ICollection<Yonetici> Yoneticiler { get; set; }
+        public ICollection<SistemYonetici> SistemYoneticileri { get; set; }
+        public ICollection<HesapTalep> HesapTalepleri { get; set; }
+
+
+
     }
 }
