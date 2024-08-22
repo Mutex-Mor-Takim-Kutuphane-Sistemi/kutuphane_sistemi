@@ -64,7 +64,7 @@ class kitap
 
     }
 
-    public void kitapSil()
+    public void kitapSil(string kitapID)
     {
         NpgsqlConnection baglanti = new NpgsqlConnection(baglantiYolu);
         string query = "DELETE FROM kitap WHERE KitapID = @kitapID";
@@ -76,7 +76,7 @@ class kitap
 
     }
 
-    public void kitapBilgileriniGoster()
+    public void kitapBilgileriniGoster(string KitapID)
     {
         NpgsqlConnection baglanti = new NpgsqlConnection(baglantiYolu);
         string query = "";
@@ -89,12 +89,12 @@ class kitap
 
         if (reader.Read())
         {
-            Console.WriteLine($"Kitap ID: {reader["KitapID"]}");
-            Console.WriteLine($"Kitap Adı: {reader["KitapAdi"]}");
-            Console.WriteLine($"Yazar: {reader["Yazar"]}");
-            Console.WriteLine($"Basım Yılı: {reader["BasimYili"]}");
-            Console.WriteLine($"Yayınevi: {reader["Yayinevi"]}");
-            Console.WriteLine($"Ödünç Alındı Mı: {(Convert.ToBoolean(reader["OduncAlindiMi"]) ? "Evet" : "Hayır")}");
+            Console.WriteLine($"Kitap ID: {reader["kitapID"]}");
+            Console.WriteLine($"Kitap Adı: {reader["kitapAdi"]}");
+            Console.WriteLine($"Yazar: {reader["yazar"]}");
+            Console.WriteLine($"Basım Yılı: {reader["basimYili"]}");
+            Console.WriteLine($"Yayınevi: {reader["yayinevi"]}");
+            Console.WriteLine($"Ödünç Alındı Mı: {(Convert.ToBoolean(reader["oduncAlindiMi"]) ? "Evet" : "Hayır")}");
         }
         else
         {
@@ -103,7 +103,7 @@ class kitap
 
     }
 
-    public void KitapBul()
+    public void KitapBul(string KitapID)
     {
         NpgsqlConnection baglanti = new NpgsqlConnection(baglantiYolu);
 
