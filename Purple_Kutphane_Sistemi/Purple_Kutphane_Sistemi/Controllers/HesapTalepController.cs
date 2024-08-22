@@ -18,86 +18,62 @@ namespace Purple_Kutphane_Sistemi.Controllers
             _context = context;
         }
 
-        // POST: api/HesapTalep
         [HttpPost]
-        public async Task<ActionResult<HesapTalep>> Create(HesapTalep hesapTalep)
+        public ActionResult<HesapTalep> Create(HesapTalep hesapTalep)
         {
             _context.HesapTalepleri.Add(hesapTalep);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction(nameof(Read), new { id = hesapTalep.talep_id }, hesapTalep);
+            _context.SaveChanges();
+            return Ok(hesapTalep);
         }
 
-        // GET: api/HesapTalep
         [HttpGet]
-        public async Task<ActionResult<List<HesapTalep>>> Read()
+        public ActionResult<List<HesapTalep>> Read()
         {
-            return await _context.HesapTalepleri.ToListAsync();
+            return _context.HesapTalepleri.ToList();
         }
 
-        // GET: api/HesapTalep/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<HesapTalep>> Read(int id)
+        public ActionResult<HesapTalep> Read(int id)
         {
-            var hesapTalep = await _context.HesapTalepleri.FindAsync(id);
-
+            var hesapTalep = _context.HesapTalepleri.Find(id);
             if (hesapTalep == null)
             {
                 return NotFound();
             }
-
-            return hesapTalep;
+            return Ok(hesapTalep);
         }
 
-        // PATCH: api/HesapTalep/5
         [HttpPatch("{id}")]
-        public async Task<IActionResult> Update(int id, HesapTalep hesapTalep)
+        public ActionResult<HesapTalep> Update(int id, HesapTalep hesapTalep)
         {
             if (id != hesapTalep.talep_id)
             {
                 return BadRequest();
             }
 
-            _context.Entry(hesapTalep).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!HesapTalepExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
-        }
-
-        // DELETE: api/HesapTalep/5
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(int id)
-        {
-            var hesapTalep = await _context.HesapTalepleri.FindAsync(id);
-            if (hesapTalep == null)
+            var existingHesapTalep = _context.HesapTalepleri.Find(id);
+            if (existingHesapTalep == null)
             {
                 return NotFound();
             }
 
-            _context.HesapTalepleri.Remove(hesapTalep);
-            await _context.SaveChangesAsync();
-
-            return NoContent();
+            _context.Entry(existingHesapTalep).CurrentValues.SetValues(hesapTalep);
+            _context.SaveChanges();
+            return Ok(existingHesapTalep);
         }
 
-        private bool HesapTalepExists(int id)
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
         {
-            return _context.HesapTalepleri.Any(e => e.talep_id == id);
+            var existingHesapTalep = _context.HesapTalepleri.Find(id);
+            if (existingHesapTalep == null)
+            {
+                return NotFound();
+            }
+
+            _context.HesapTalepleri.Remove(existingHesapTalep);
+            _context.SaveChanges();
+            return Ok();
         }
     }
 }

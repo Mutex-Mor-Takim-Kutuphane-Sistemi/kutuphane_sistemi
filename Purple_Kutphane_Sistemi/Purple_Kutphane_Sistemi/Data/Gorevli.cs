@@ -11,7 +11,5 @@ namespace Purple_Kutphane_Sistemi.Data
 
         public ICollection<HesapTalep> HesapTalepleri { get; set; }
         public ICollection<KitapTalep> KitapTalepleri { get; set; }
-
-
     }
 }

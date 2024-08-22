@@ -19,84 +19,61 @@ namespace Purple_Kutphane_Sistemi.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<Gorevli>> Create(Gorevli gorevli)
+        public ActionResult<Gorevli> Create(Gorevli gorevli)
         {
             _context.Gorevliler.Add(gorevli);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction(nameof(Read), new { id = gorevli.gorevli_id }, gorevli);
+            _context.SaveChanges();
+            return Ok(gorevli);
         }
 
-        // GET: api/Gorevli
         [HttpGet]
-        public async Task<ActionResult<List<Gorevli>>> Read()
+        public ActionResult<List<Gorevli>> Read()
         {
-            return await _context.Gorevliler.ToListAsync();
+            return _context.Gorevliler.ToList();
         }
 
-        // GET: api/Gorevli/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Gorevli>> Read(int id)
+        public ActionResult<Gorevli> Read(int id)
         {
-            var gorevli = await _context.Gorevliler.FindAsync(id);
-
+            var gorevli = _context.Gorevliler.Find(id);
             if (gorevli == null)
             {
                 return NotFound();
             }
-
-            return gorevli;
+            return Ok(gorevli);
         }
 
-        // PUT: api/Gorevli/5
-        [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, Gorevli gorevli)
+        [HttpPatch("{id}")]
+        public ActionResult<Gorevli> Update(int id, Gorevli gorevli)
         {
             if (id != gorevli.gorevli_id)
             {
                 return BadRequest();
             }
 
-            _context.Entry(gorevli).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!GorevliExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
-        }
-
-        // DELETE: api/Gorevli/5
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(int id)
-        {
-            var gorevli = await _context.Gorevliler.FindAsync(id);
-            if (gorevli == null)
+            var existingGorevli = _context.Gorevliler.Find(id);
+            if (existingGorevli == null)
             {
                 return NotFound();
             }
 
-            _context.Gorevliler.Remove(gorevli);
-            await _context.SaveChangesAsync();
-
-            return NoContent();
+            _context.Entry(existingGorevli).CurrentValues.SetValues(gorevli);
+            _context.SaveChanges();
+            return Ok(existingGorevli);
         }
 
-        private bool GorevliExists(int id)
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
         {
-            return _context.Gorevliler.Any(e => e.gorevli_id == id);
+            var existingGorevli = _context.Gorevliler.Find(id);
+            if (existingGorevli == null)
+            {
+                return NotFound();
+            }
+
+            _context.Gorevliler.Remove(existingGorevli);
+            _context.SaveChanges();
+            return Ok();
         }
     }
 }

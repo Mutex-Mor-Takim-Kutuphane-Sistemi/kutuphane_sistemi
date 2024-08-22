@@ -20,55 +20,62 @@ namespace Purple_Kutphane_Sistemi.Controllers
             _context = context;
         }
 
-            // POST: api/Kullanici
-            [HttpPost]
-            public ActionResult<Kullanici> Create(Kullanici kullanici)
-            {
-                _context.Kullanicilar.Add(kullanici);
-                _context.SaveChanges();
-                return CreatedAtAction(nameof(Read), new { id = kullanici.Kullanici_id }, kullanici);
-            }
-
-            // GET: api/Kullanici
-            [HttpGet]
-            public ActionResult<List<Kullanici>> Read()
-            {
-                return _context.Kullanicilar.ToList();
-            }
-
-            // PATCH: api/Kullanici/5
-            [HttpPatch("{id}")]
-            public ActionResult<Kullanici> Update(int id, Kullanici kullanici)
-            {
-                if (id != kullanici.Kullanici_id)
-                {
-                    return BadRequest();
-                }
-
-                var existingKullanici = _context.Kullanicilar.Find(id);
-                if (existingKullanici == null)
-                {
-                    return NotFound();
-                }
-
-                _context.Entry(existingKullanici).CurrentValues.SetValues(kullanici);
-                _context.SaveChanges();
-                return Ok(existingKullanici);
-            }
-
-            // DELETE: api/Kullanici/5
-            [HttpDelete("{id}")]
-            public ActionResult Delete(int id)
-            {
-                var existingKullanici = _context.Kullanicilar.Find(id);
-                if (existingKullanici == null)
-                {
-                    return NotFound();
-                }
-
-                _context.Kullanicilar.Remove(existingKullanici);
-                _context.SaveChanges();
-                return NoContent();
-            }
+        [HttpPost]
+        public ActionResult<Kullanici> Create(Kullanici kullanici)
+        {
+            _context.Kullanicilar.Add(kullanici);
+            _context.SaveChanges();
+            return Ok(kullanici);
         }
+
+        [HttpGet]
+        public ActionResult<List<Kullanici>> Read()
+        {
+            return _context.Kullanicilar.ToList();
+        }
+
+        [HttpGet("{id}")]
+        public ActionResult<Kullanici> Read(int id)
+        {
+            var kullanici = _context.Kullanicilar.Find(id);
+            if (kullanici == null)
+            {
+                return NotFound();
+            }
+            return Ok(kullanici);
+        }
+
+        [HttpPatch("{id}")]
+        public ActionResult<Kullanici> Update(int id, Kullanici kullanici)
+        {
+            if (id != kullanici.Kullanici_id)
+            {
+                return BadRequest();
+            }
+
+            var existingKullanici = _context.Kullanicilar.Find(id);
+            if (existingKullanici == null)
+            {
+                return NotFound();
+            }
+
+            _context.Entry(existingKullanici).CurrentValues.SetValues(kullanici);
+            _context.SaveChanges();
+            return Ok(existingKullanici);
+        }
+
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
+        {
+            var existingKullanici = _context.Kullanicilar.Find(id);
+            if (existingKullanici == null)
+            {
+                return NotFound();
+            }
+
+            _context.Kullanicilar.Remove(existingKullanici);
+            _context.SaveChanges();
+            return Ok();
+        }
+    }
     }

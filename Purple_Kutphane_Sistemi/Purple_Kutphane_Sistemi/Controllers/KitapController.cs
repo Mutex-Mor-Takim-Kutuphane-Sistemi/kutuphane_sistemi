@@ -18,86 +18,62 @@ namespace Purple_Kutphane_Sistemi.Controllers
             _context = context;
         }
 
-        // POST: api/Kitap
         [HttpPost]
-        public async Task<ActionResult<Kitap>> Create(Kitap kitap)
+        public ActionResult<Kitap> Create(Kitap kitap)
         {
             _context.Kitaplar.Add(kitap);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction(nameof(Read), new { id = kitap.KitapID }, kitap);
+            _context.SaveChanges();
+            return Ok(kitap);
         }
 
-        // GET: api/Kitap
         [HttpGet]
-        public async Task<ActionResult<List<Kitap>>> Read()
+        public ActionResult<List<Kitap>> Read()
         {
-            return await _context.Kitaplar.ToListAsync();
+            return _context.Kitaplar.ToList();
         }
 
-        // GET: api/Kitap/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Kitap>> Read(int id)
+        public ActionResult<Kitap> Read(int id)
         {
-            var kitap = await _context.Kitaplar.FindAsync(id);
-
+            var kitap = _context.Kitaplar.Find(id);
             if (kitap == null)
             {
                 return NotFound();
             }
-
-            return kitap;
+            return Ok(kitap);
         }
 
-        // PUT: api/Kitap/5
-        [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, Kitap kitap)
+        [HttpPatch("{id}")]
+        public ActionResult<Kitap> Update(int id, Kitap kitap)
         {
             if (id != kitap.KitapID)
             {
                 return BadRequest();
             }
 
-            _context.Entry(kitap).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!KitapExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
-        }
-
-        // DELETE: api/Kitap/5
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(int id)
-        {
-            var kitap = await _context.Kitaplar.FindAsync(id);
-            if (kitap == null)
+            var existingKitap = _context.Kitaplar.Find(id);
+            if (existingKitap == null)
             {
                 return NotFound();
             }
 
-            _context.Kitaplar.Remove(kitap);
-            await _context.SaveChangesAsync();
-
-            return NoContent();
+            _context.Entry(existingKitap).CurrentValues.SetValues(kitap);
+            _context.SaveChanges();
+            return Ok(existingKitap);
         }
 
-        private bool KitapExists(int id)
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
         {
-            return _context.Kitaplar.Any(e => e.KitapID == id);
+            var existingKitap = _context.Kitaplar.Find(id);
+            if (existingKitap == null)
+            {
+                return NotFound();
+            }
+
+            _context.Kitaplar.Remove(existingKitap);
+            _context.SaveChanges();
+            return Ok();
         }
     }
 }
