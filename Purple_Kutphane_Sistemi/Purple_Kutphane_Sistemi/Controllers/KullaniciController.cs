@@ -78,4 +78,4 @@ namespace Purple_Kutphane_Sistemi.Controllers
             return Ok();
         }
     }
-    }
+}
