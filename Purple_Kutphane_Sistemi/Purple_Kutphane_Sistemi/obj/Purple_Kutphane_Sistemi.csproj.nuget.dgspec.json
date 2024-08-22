@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj",
         "projectName": "Purple_Kutphane_Sistemi",
-        "projectPath": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj",
-        "packagesPath": "C:\\Users\\Agah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Agah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
