@@ -2803,5 +2803,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Önbellek dosyası C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\obj\\project.nuget.cache okunurken bir sorun oluştu : Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+    }
+  ]
 }
