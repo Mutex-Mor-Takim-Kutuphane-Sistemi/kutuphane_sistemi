@@ -14,7 +14,7 @@ namespace Purple_Kutphane_Sistemi
             _context = context;
         }
 
-        public async Task<bool> KayitOl(Kullanici yeniKullanici)
+        public async Task<bool> KayitOl(Kullanici yeniKullanici, string anneKizlikSoyad)
         {
             var mevcutKullanici = await _context.Kullanicilar
                 .FirstOrDefaultAsync(k => k.Email == yeniKullanici.Email);
@@ -26,6 +26,8 @@ namespace Purple_Kutphane_Sistemi
 
             
             yeniKullanici.Parola = HashPassword(yeniKullanici.Parola); // İnanılmaz bir sistem
+
+            yeniKullanici.Annesoyad = anneKizlikSoyad;
 
             yeniKullanici.KayıtTarihi = DateTime.Now;
 
@@ -61,5 +63,53 @@ namespace Purple_Kutphane_Sistemi
             return kullanici;
         }
 
+        public async Task<bool> SifreDegistir(int kullaniciId, string mevcutParola, string yeniParola)
+        {
+            var kullanici = await _context.Kullanicilar
+                .FirstOrDefaultAsync(k => k.Kullanici_id == kullaniciId);
+
+            if (kullanici == null)
+            {
+                return false;
+            }
+
+            
+            var hashliMevcutParola = HashPassword(mevcutParola);
+            if (kullanici.Parola != hashliMevcutParola)
+            {
+                return false;
+            }
+
+            
+            kullanici.Parola = HashPassword(yeniParola);
+
+            
+            _context.Kullanicilar.Update(kullanici);
+            await _context.SaveChangesAsync();
+
+            return true;
+        }
+
+        public async Task<bool> SifremiUnuttum(int kullaniciID, string anneKizlikSoyad, string yeniSifre)
+        {
+            var kullanici = await _context.Kullanicilar
+                .FirstOrDefaultAsync(k => k.Kullanici_id == kullaniciID);
+
+            if(kullanici == null)
+                return false;
+
+            if (anneKizlikSoyad != kullanici.Annesoyad) //if (!string.Equals(anneKizlikSoyad, kullanici.Annesoyad, StringComparison.OrdinalIgnoreCase)) return false;
+                return false;
+
+            
+
+
+            kullanici.Parola = HashPassword (yeniSifre);
+
+            _context.Kullanicilar .Update(kullanici);
+            await _context.SaveChangesAsync();
+
+            return true;
+        }
     }
 }
