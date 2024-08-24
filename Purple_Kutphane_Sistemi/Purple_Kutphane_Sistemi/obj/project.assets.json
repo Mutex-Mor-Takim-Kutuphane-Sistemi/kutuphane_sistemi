@@ -2718,27 +2718,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Agah\\.nuget\\packages\\": {}
+    "/Users/melekaltun/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj",
+      "projectUniqueName": "/Users/melekaltun/Desktop/mutexpurple/kutuphane_sistemi/Purple_Kutphane_Sistemi/Purple_Kutphane_Sistemi/Purple_Kutphane_Sistemi.csproj",
       "projectName": "Purple_Kutphane_Sistemi",
-      "projectPath": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj",
-      "packagesPath": "C:\\Users\\Agah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Agah\\Documents\\GitHub\\Kutuphane\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\obj\\",
+      "projectPath": "/Users/melekaltun/Desktop/mutexpurple/kutuphane_sistemi/Purple_Kutphane_Sistemi/Purple_Kutphane_Sistemi/Purple_Kutphane_Sistemi.csproj",
+      "packagesPath": "/Users/melekaltun/.nuget/packages/",
+      "outputPath": "/Users/melekaltun/Desktop/mutexpurple/kutuphane_sistemi/Purple_Kutphane_Sistemi/Purple_Kutphane_Sistemi/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Agah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/melekaltun/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
