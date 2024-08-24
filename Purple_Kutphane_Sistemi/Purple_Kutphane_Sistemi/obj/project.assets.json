@@ -2718,24 +2718,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/melekaltun/.nuget/packages/": {}
+    "C:\\Users\\ERGÜL\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/melekaltun/Desktop/mutexpurple/kutuphane_sistemi/Purple_Kutphane_Sistemi/Purple_Kutphane_Sistemi/Purple_Kutphane_Sistemi.csproj",
+      "projectUniqueName": "C:\\Users\\ERGÜL\\OneDrive\\Desktop\\setup\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj",
       "projectName": "Purple_Kutphane_Sistemi",
-      "projectPath": "/Users/melekaltun/Desktop/mutexpurple/kutuphane_sistemi/Purple_Kutphane_Sistemi/Purple_Kutphane_Sistemi/Purple_Kutphane_Sistemi.csproj",
-      "packagesPath": "/Users/melekaltun/.nuget/packages/",
-      "outputPath": "/Users/melekaltun/Desktop/mutexpurple/kutuphane_sistemi/Purple_Kutphane_Sistemi/Purple_Kutphane_Sistemi/obj/",
+      "projectPath": "C:\\Users\\ERGÜL\\OneDrive\\Desktop\\setup\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi.csproj",
+      "packagesPath": "C:\\Users\\ERGÜL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ERGÜL\\OneDrive\\Desktop\\setup\\kutuphane_sistemi\\Purple_Kutphane_Sistemi\\Purple_Kutphane_Sistemi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/melekaltun/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ERGÜL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2748,6 +2757,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2792,7 +2806,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
